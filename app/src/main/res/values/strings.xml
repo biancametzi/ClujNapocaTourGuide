@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">Cluj-Napoca Tour Guide</string>
+
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Food</string>
+    <string name="parks">Parks</string>
+    <string name="coffee">Coffee \nShops</string>
+
+    <!-- Parks category -->
+    <string name="central_park">Central Park</string>
+    <string name="description_central_park">The Central Park is one of the main green spaces in
+        Cluj-Napoca, founded in 1827. Full of green, a lake and a casino, the park is one of the
+        main attractions of the city. Over spring and summer, the lake is populated with swans and
+        ducks, which are a delight for children. By the lake, there is also the Centre of Urban
+        Culture, a historic monument that played the role of casino, museum, school of fine arts and
+        restaurant over the years. In most recent years, either in the Casino\'s building or the park
+        alleys, cultural and recreational events play a big role. Either if you want to participate
+        at a dance course, ride the bike, attend the UNTOLD Festival or just sit on a bench, the
+        park always manages to bring you into a relaxing state. </string>
+    <string name="address_central_park">Cardinal Hossu Iuliu Street, Cluj-Napoca</string>
+    <string name="schedule_central_park">Opened for public non stop</string>
+    <string name="phone_number_central_park">+40 720 425 741</string>
+
+    <string name="botanical_garden">Botanical Garden</string>
+    <string name="description_botanical_garden">Is a botanical garden located in the south part of
+        the city and was founded in 1872. Bedides being a tourist destination, the garden also
+        serves as a teaching and research center as part of the Babeș-Bolyai University. The
+        garden is over 14 hectares in area, with over 10,000 plants from throughout the world.
+        The main attractions are the Japanese Garden (a garden in Japanese style, with a brook and a
+        Japanese-style house) and the Roman Garden with archeological remains from the Roman colony of
+        Napoca.</string>
+    <string name="address_botanical_garden">Republicii Street, number 42, Cluj-Napoca</string>
+    <string name="schedule_botanical_garden">Monday to Sunday from 8 AM to 8 PM</string>
+    <string name="phone_number_botanical_garden">+40 264 592 152</string>
+
+    <string name="cetatuie_hill">Cetățuie Hill</string>
+    <string name="description_cetatuie_hill">This is the place to go to if you want to admire one of
+        the best panoramas of the city and the surrounding hills, rivers and even mountains. The
+        fortress was built in the 18th century, in order to ensure the control of the city, more
+        than for defensive purposes, occasionally serving as a prison. </string>
+    <string name="address_cetatuie_hill">Gruia Street, Cluj-Napoca</string>
+    <string name="schedule_cetatuie_hill">Opened for public non stop</string>
+
+    <string name="hatieganu_park">Iuliu Hațieganu Sports Park</string>
+    <string name="description_hatieganu_park">Mostly known by its old name, the Babeș Park is one
+        of the biggest parks of Cluj-Napoca and at the same time it is also the campus of the
+        Faculty of Physical Education and Sport within UBB. Established in 1931, the park wss
+        designed to be the place of sports training to university students, but also an oasis of
+        tranquillity and balance, accessible to everyone. The park combines authentic natural spaces
+        with perimeters for sports activities.</string>
+    <string name="address_hatieganu_park">Pandurilor Street, number 7, Cluj-Napoca</string>
+    <string name="schedule_hatieganu_park">Monday to Sunday from 6 AM to 11 PM</string>
+
+    <string name="iulius_park">Iulius Park</string>
+    <string name="description_iulius_park">Iulius Park is an oasis of relaxation in the city. It
+        offers visitors the most enjoyable recreation and disconnection modes in nature through
+        pedestrian overpass, cycling and treadmill, alleys promenade and relaxation areas equipped
+        with benches. You can either relax on the green areas or go by the lake and watch the swans
+        and ducks.</string>
+    <string name="address_iulius_park">Vaida Voevod Alexandru Street, number 53B, Cluj-Napoca</string>
+    <string name="schedule_iulius_park">Opened for public non stop</string>
+
+    <string name="adrenalin_park">Adrenalin Park</string>
+    <string name="description_adrenalin_park">Adrenalin Park is the first adventure park from
+        Cluj that offers aerial games, team buildings, parties, company events and kids theme events.
+        With 12 adrenaline paths, the park is designed so that both children and adults can enjoy,
+        together with nature and movement. There are 98 games, including 30 games for kids.</string>
+    <string name="address_adrenalin_park">Casele Micești, number 152F, Feleacu</string>
+    <string name="schedule_adrenalin_park">Monday to Friday from 12 PM to 8 PM
+        \nSaturday and Sunday from 10 AM to 8 PM</string>
+    <string name="phone_number_adrenalin_park">+40 371 040 434</string>
+
+    <!-- Hotels category -->
+    <string name="hampton_hotel">Hampton by Hilton</string>
+    <string name="description_hampton_hotel">Conveniently located just two minutes from downtown
+        Cluj, the hotel is only a 10-minute drive from Cluj-Napoca International Airport and within
+        walking distance of businesses centers including The Office, Maestro, Power, Silver and
+        Julius Business Centers.</string>
+    <string name="address_hampton_hotel">21 December Street, number 67, Cluj-Napoca</string>
+    <string name="schedule_hampton_hotel">Non stop</string>
+    <string name="phone_number_hampton_hotel">+40 372 725 566</string>
+
+    <string name="golden_tulip_hotel">Golden Tulip</string>
+    <string name="description_golden_tulip">Located only a few minutes away from downtown Cluj-Napoca,
+        the hotel tends to impress with its superb urban view. Close to shopping malls, business
+        centers and recreation areas, it is the perfect choice for leisure or business travel.</string>
+    <string name="address_golden_tulip">Observatorului Street, number 129, Cluj-Napoca</string>
+    <string name="schedule_golden_tulip">Non stop</string>
+    <string name="phone_number_golden_tulip">+40 264 545 000</string>
+
+    <string name="grand_italia_hotel">Grand Hotel Italia</string>
+    <string name="description_grand_italia">Located just 5 minutes from the old town center and at
+        only 20 minutes from International Airport of Cluj-Napoca. It is the ideal place to taste
+        the delightful charm of Transylvania, while benefiting from high class service throughout
+        the stay.</string>
+    <string name="address_grand_italia">Trifoiului Street, number 2, Cluj-Napoca</string>
+    <string name="schedule_grand_italia">Non stop</string>
+    <string name="phone_number_grand_italia">+40 364 111 333</string>
+
+    <string name="ramada_hotel">Ramada Hotel</string>
+    <string name="description_ramada_hotel">It is located 5 minutes walk from the business, tourist
+        and historical center of Cluj-Napoca. Ramada Hotel is the perfect option, both for business
+        and leisure purposes. It has an entire executive floor with access to Executive Lounge
+        facilities and panoramic terraces.</string>
+    <string name="address_ramada_hotel">Calea Turzii, number 43&#8211;49, Cluj-Napoca</string>
+    <string name="schedule_ramada_hotel">Non stop</string>
+    <string name="phone_number_ramada_hotel">+40 372 743 143</string>
+
+    <string name="belvedere_hotel">Belvedere Hotel</string>
+    <string name="description_belvedere_hotel">The hotel is situated in the central area of ​​
+        Cluj-Napoca, on the Cetatuie hill. Its location offers its guests a great panorama and
+        access to a lot of important tourist attractions (Art Museum, St. Michael\'s Church, Banffy
+        Palace, Matei Corvin Statue) as well as various public institutions (Cluj-Napoca City Hall,
+        Student Culture House).</string>
+    <string name="address_belvedere_hotel">Călărașilor Street, number 1, Cluj-Napoca</string>
+    <string name="schedule_belvedere_hotel">Non stop</string>
+    <string name="phone_number_belvedere_hotel">+40 264 432 071</string>
+
+    <!-- Food category -->
+    <string name="samsara_food">Samsara Foodhouse</string>
+    <string name="description_samsara_food">Samsara is the only specialized vegetarian and vegan
+        restaurant in Cluj (at least until today). They offer healthy and tasty meals and drinks at
+        their location as well as a delivery service that covers the entire city.</string>
+    <string name="address_samsara_food">Ștefan Ludwig Roth Street, number 5, Cluj-Napoca</string>
+    <string name="schedule_samsara_food">Monday to Sunday from 11 AM to 11 PM</string>
+    <string name="phone_number_samsara_food">+40 799 073 073</string>
+
+    <string name="jaxx_food">Jaxx</string>
+    <string name="description_jaxx_food">This american restaurant makes visitors start feeling the
+        real atmosphere that is completed by the tables and decorations inspired by great American
+        Rock Bands, the car on top of the bar, and the real chopper from the wall. These are all
+        part of the rock spirit that catch everybody that enters the restaurant.</string>
+    <string name="address_jaxx_food">Emil Isac Street, Cluj-Napoca</string>
+    <string name="schedule_jaxx_food">Monday to Friday from 10 AM to 1 AM
+        \nSaturday and Sunday from 12 PM to 2 AM</string>
+    <string name="phone_number_jaxx_food">+40 756 136 953</string>
+
+    <string name="joben_food">Joben Bistro</string>
+    <string name="description_joben_food">Embark yourself in a trip away from conventional
+        design and discover the marvellous world of fiction. The fantastic pub, mystically protected,
+        takes you back in time. The universe of Jules Verne, filled with fantasy and sci-fi stories
+        pops-up. </string>
+    <string name="address_joben_food">Avram Iancu Street, number 29, Cluj-Napoca</string>
+    <string name="schedule_joben_food">Monday to Friday from 7:30 AM to 1 AM
+        \nSaturday and Sunday from 12 PM to 3 AM</string>
+    <string name="phone_number_joben_food">+40 720 222 800</string>
+
+    <string name="baracca_food">Baracca</string>
+    <string name="description_baracca_food">Located in downtown Cluj-Napoca, this restaurant is the
+        place where architecture, design and passion for life, offer the perfect setting to
+        demonstrate love for gastronomy and quality ingredients. Baracca is the place where life is
+        celebrated every moment.</string>
+    <string name="address_baracca_food">Napoca Street, number 8A, Cluj-Napoca</string>
+    <string name="schedule_baracca_food">Monday to Sunday from 12 PM to 11 PM</string>
+    <string name="phone_number_baracca_food">+40 732 155 177</string>
+
+    <string name="klausen_food">Klausen Burger</string>
+    <string name="description_klausen_food">It is a micro brewery with a restaurant and a roof top
+        terrace that has a wonderful view over the city. Located in the center of the city, the
+        restaurant is best know for its beer. Klausen Burger Beer is made in front of customers and
+        produced only with imported raw materials.</string>
+    <string name="address_klausen_food">Ferdinand Street, number 22, Cluj-Napoca</string>
+    <string name="schedule_klausen_food">Monday to Friday from 10 AM to 2 AM
+        \nSaturday and Sunday from 10 AM to 3 AM</string>
+    <string name="phone_number_klausen_food">+40 372 717 552</string>
+
+    <string name="fabrica_food">Fabrica de bere Ursus</string>
+    <string name="description_fabrica_food">2011 marks the date of opening a craft Mini-Brewery
+        in Cluj-Napoca, on the location of the old brewery, however in a very special format, the
+        brewery being a place where people in Cluj-Napoca can watch how fresh beer is brewed.
+        The craft Mini- Brewery is actually named \"Fabrica de Bere Ursus\", and the intense
+        experience of the craft beer specialties produced in this location is being described
+        as \"Pure, Unfiltered Art\". The location is also a restaurant, the food that is being served
+        is complementing the local beer. </string>
+    <string name="address_fabrica_food">Calea Mănăștur, number 2&#8211;6, Cluj-Napoca</string>
+    <string name="schedule_fabrica_food">Monday to Saturday from 8 AM to 3 AM
+        \nSunday from 8 AM to 12 AM</string>
+    <string name="phone_number_fabrica_food">+40 756 393 333</string>
+
+    <string name="maimuta_food">Maimuța Plângătoare</string>
+    <string name="description_maimuta_food">This restaurant has an exciting and mysterious
+        history, having 88 years old. Even though now it is a restaurant, the place formally was a
+        pub where people used to go and drown their bitter. The owner was a fat man who tended to
+        cry whenever he was drinking. His suffering and misfortune was due to a local competitor,
+        opened not very far away. The owner was known to the employees for his \"tear-concerts\".
+        At a soda supply, a restaurant employee was talking to the distributor about the owner,
+        mentioning that he is \"Wailing like a crying monkey\". The owner heard this and since then,
+        he decided to change the name of the restaurant to \"Crying monkey\". Nowadays, the
+        restaurant is trying to adapt by making not very sophisticated dishes and making available
+        more than 140 wine labels to their customers.</string>
+    <string name="address_maimuta_food">Sindicatelor Street, number 1, Cluj-Napoca</string>
+    <string name="schedule_maimuta_food">Monday to Friday from 8 AM to 11 PM
+        \nSaturday and Sunday from 9 AM to 11 PM</string>
+    <string name="phone_number_maimuta_food">+40 756 157 433</string>
+
+    <string name="euphoria_food">Euphoria Biergarten</string>
+    <string name="description_euphoria_food">Having a dream location, on Canalul Morii, close to
+        the centre of the city and the Central Park, the restaurant has an atmosphere that attracts
+        everybody as soon as the threshold is crossed. From traditional dishes to the most
+        sophisticated dishes, the menu is one of the strengths of the Euphoria Biergarten
+        restaurant. Besides this, Euphoria Biergarten also hosts an impressive collection of beer
+        mugs collected from all corners of the world and exposed inside as true museum objects.</string>
+    <string name="address_euphoria_food">Cardinal Iuliu Hossu Street, number 25, Cluj-Napoca</string>
+    <string name="schedule_euphoria_food">Monday to Sunday from 8 AM to 2 AM</string>
+    <string name="phone_number_euphoria_food">+40 756 393 333</string>
+
+    <string name="livada_food">Livada</string>
+    <string name="description_livada_food">Placed in a historical house and being surrounded by a
+        beautiful garden, the restaurant offers a balanced and varied menu, which includes a range
+        of products by Chef Patrizia Paglieri, a selection of good wines and quality live music.
+        The decorative elements are inspired by the music and nightlife of a  classic Scottish pub.
+        The warm atmosphere of the restaurant and the attraction brought by the terrace bring an
+        oasis of tranquility in the heart of the city.</string>
+    <string name="address_livada_food">Clinicilor Street, number 14, Cluj-Napoca</string>
+    <string name="schedule_livada_food">Monday to Friday from 11 AM to 12 AM
+        \nSaturday and Sunday from 12 PM to 12 AM</string>
+    <string name="phone_number_livada_food">+40 722 111 115</string>
+
+    <string name="carrousel_food">Carrousel By Chios</string>
+    <string name="description_carrousel_food">Privileged to have a central location, in the Central
+        Park, Chios and Carrousel remain a symbol of Cluj-Napoca. Starting with a modern design,
+        inspired by current trends, the restaurant is a unique place where the delightful Chios
+        Lake panorama can be admired and the history and architectural beauty of the old Skating
+        Pavilion can be enjoyed. Using almost exclusively locally sourced ingredients, Carrousel
+        proposes a unique and novel fusion menu, in which the Chefs creatively combine the strong
+        traditional romanian cuisine roots with the refined elements of french cuisine and the
+        mediterranean accents of italian cuisine in a blend that delivers authentic, quality dishes.</string>
+    <string name="address_carrousel_food">George Coșbuc Street, number 14, Cluj-Napoca</string>
+    <string name="schedule_carrousel_food">Monday to Sunday from 12 PM to 12 AM</string>
+    <string name="phone_number_carrousel_food">+40 753 059 359</string>
+
+    <!-- Coffee shops category-->
+    <string name="coffee_addicts">Coffee Addicts</string>
+    <string name="description_coffee_addicts">Located in the center of the city, Coffee Addicts is
+        the place where coffee lovers and addicts are understood and always welcome. Whether you
+        want to recharge your batteries or just enjoy a good cup of coffee, the baristas are happy
+        to guide each and every customer to the perfect combination of flavours.</string>
+    <string name="address_coffee_addicts">Strada Regele Ferdinand, number 9, Cluj-Napoca</string>
+    <string name="schedule_coffee_addicts">Monday to Friday from 7:30 AM to 6:30 PM
+        \nSaturday and Sunday from 10 AM to 3 PM</string>
+    <string name="phone_number_coffee_addicts">+40 744 937 340</string>
+
+    <string name="q_caffe">Q Caffe</string>
+    <string name="description_q_caffe">Q Caffe is a bohemian café in the heart of Cluj, with good
+        music and a friendly ambience in a magical setting. Q Caffe is a place with a special story
+        about people being one of the oldest and most popular cafes in Cluj, opened for 10 years. </string>
+    <string name="address_q_caffe">Maior Petru Street, number 13, Cluj-Napoca</string>
+    <string name="schedule_q_caffe">Monday to Sunday from 7:30 AM to 3 AM</string>
+    <string name="phone_number_q_caffe">+40 752 104 641</string>
+
+    <string name="teo_cafe">Teo\'s cafe</string>
+    <string name="description_teo_cafe">The coffee shop starts preparing the coffee from an espresso
+        and according to the state and the desire of the customers, the baristas make magic and
+        personalize the coffee. Believing in the concept that \"a good day is known since it starts\",
+        the coffee shop owners think that the perfect day is accompanied by the coffee each person likes.
+        Coffee stimulates, raises our motivation and the processing of information. Being present
+        since 2010, it has 8 locations across Cluj-Napoca and Iași, and is known for the
+        friendliness of baristas. </string>
+    <string name="address_teo_cafe">Memorandumului Street, number 26, Cluj-Napoca</string>
+    <string name="schedule_teo_cafe">Monday to Friday from 7 AM to 6 PM
+        \nSaturday from 10 AM to 3 PM</string>
+    <string name="phone_number_teo_cafe">+40 754 929 221</string>
+
+    <string name="narcoffee">Narcoffee Roasters</string>
+    <string name="description_narcoffee">It is a coffee chain which seeks to democratize true,
+        balanced coffee. At Narcoffee, everything revolves around coffee, black or with milk, served
+        in the place or to go. The focus is on specialized coffee, with no syrups or other
+        artificial flavours. Bringing coffee from different corners of the world, they fry it
+        locally, and then serve it freshly ground to those curious to taste more.</string>
+    <string name="address_narcoffee">Eroilor Bulevard, number 49, Cluj-Napoca</string>
+    <string name="schedule_narcoffee">Monday to Friday from 7:30 AM to 6 PM
+        \nSaturday and Sunday from 9 AM to 8 PM</string>
+    <string name="phone_number_narcoffee">+40 722 571 290</string>
+
+    <string name="phil_coffee">Phil\'s Coffee Shop</string>
+    <string name="description_phil_coffee">The coffee shop that makes you PHIL good. Sometimes, the
+        only thing needed in the morning is a delicious coffee and a fresh croissant. The coffee
+        shop offers the perfect environment to start the day, have business meetings, enjoy the lunch
+        break or have a glass of wine after work. The smell of coffee and the friendly ambience
+        will make every customer come back for more.</string>
+    <string name="address_phil_coffee">Pitești Street, number 1, Cluj-Napoca</string>
+    <string name="schedule_phil_coffee">Monday to Friday from 8 AM to 6 PM</string>
+    <string name="phone_number_phil_coffee">+40 364 738 377</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

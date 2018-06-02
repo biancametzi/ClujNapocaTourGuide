@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_location_list">15dp</dimen>
+    <dimen name="column_width_location_list">150dp</dimen>
+    <dimen name="horizontal_spacing_location_list">20dp</dimen>
+    <dimen name="vertical_spacing_location_list">10dp</dimen>
+    <dimen name="height_list_item">150dp</dimen>
+    <dimen name="text_size_list_item">15sp</dimen>
+    <dimen name="padding_top_text_list_item">10dp</dimen>
+    <dimen name="padding_bottom_contact">10dp</dimen>
+    <dimen name="padding_top_contact">15dp</dimen>
+    <dimen name="padding_drawable">5dp</dimen>
+</resources>
